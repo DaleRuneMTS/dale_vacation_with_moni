@@ -4,7 +4,7 @@ init -990 python in mas_submod_utils:
         author="DaleRuneMTS",
         name="Vacation with Moni",
         description="A spinoff of Out and About, focusing more on vacations with Monika! Let her know you're taking her on holiday, and enjoy some exclusive fun in the sun with her!",
-        version="1.0",
+        version="1.0.0",
         dependencies={},
         settings_pane=None,
         version_updates={
